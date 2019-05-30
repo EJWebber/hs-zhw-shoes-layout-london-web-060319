@@ -18,8 +18,9 @@
   line-height: 0;
 }
 
-.clear {
+.row {
   clear: both;
+  margin-bottom: 2%;
 }
 
 /* Positioning Classes */
